@@ -5,7 +5,7 @@
   Hello. I am Tatu Bolinha
 
   - 🌱 Programmer
-  - 🔭 ASM,C#  
+  - 🔭 ASM (learn),C#  
 </p>
 <!-- Links -->
 
