@@ -38,15 +38,9 @@
 
 ---
 
-## 🎬 Fun GIF
+## I like OMORI 👋
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-935.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuUsuario&theme=radical" alt="GitHub Streak" />
-</p>
