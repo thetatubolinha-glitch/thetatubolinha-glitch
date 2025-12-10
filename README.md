@@ -55,7 +55,7 @@
 ## <span style="color:#00FF00; border-bottom: 2px solid #00FF00; padding-bottom: 5px;">🎮 Currently Playing</span>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/d4e5a55b1615f467d86b33f73e5a7ecc/tumblr_pwa4g4Sg2e1tq71eho1_400.gifv" width="400" alt="Omori GIF" style="border-radius: 10px; box-shadow: 0 0 20px #00FF00;">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.R7Gqp64LwvGpoj0CnoSSzgHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="400" alt="Omori GIF" style="border-radius: 10px; box-shadow: 0 0 20px #00FF00;">
   <p style="color:#00FF00; font-style: italic; margin-top: 10px;">"Welcome to white space. You've been living here for as long as you can remember."</p>
 </div>
 
