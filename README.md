@@ -1,7 +1,7 @@
 # <span style="color:#00FF00">Hi there, I'm Tatu Bolinha ☕</span>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=PProgrammer+%7C+Low-level+Languages+Fan;Assembly+is+my+main+language;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Programmer+%7C+Low-level+Languages+Fan;Assembly+is+my+main+language;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
