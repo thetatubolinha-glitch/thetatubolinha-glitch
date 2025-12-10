@@ -16,8 +16,7 @@
 
 ## <span style="color:#00FF00">🌐 Socials</span>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TatuBolinhaDEV)  
-[![Discord](https://img.shields.io/badge/Discord-00FF00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seuLinkAqui)  
-[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuUsuario)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thetatubolinha-glitch)
 
 ---
 
