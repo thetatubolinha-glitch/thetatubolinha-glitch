@@ -19,6 +19,9 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TatuBolinhaDEV)
 
+## 🌐 Comunidade
+Junte-se ao meu servidor no Discord: [Entrar no servidor](https://discord.gg/uzPg4Uv3)
+
 <!-- GIF -->
 <p align="left">
   <img align="center" Width="520" Height="520" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-935.gif" alt="Imagem">
